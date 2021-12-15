@@ -1,0 +1,19 @@
+{
+    "weatherFields": [
+        { "label": "Latitude", "field": "Latitude" },
+        { "label": "Longitude", "field": "Longitude" },
+        { "label": "Weather", "field": "Weather" },
+        { "label": "Current Temperature", "field": "CurrentTemperature" },
+        { "label": "Minimum Temperature", "field": "MinimumTemperature" },
+        { "label": "Maximum Temperature", "field": "MaximumTemperature" },
+        { "label": "Humidity", "field": "Humidity" },
+        { "label": "Wind Speed", "field": "WindSpeed" },
+        { "label": "Visibility", "field": "Visibility" },
+        { "label": "Clouds", "field": "Clouds" },
+        { "label": "Base", "field": "Base" },
+        { "label": "Country", "field": "Country" },
+        { "label": "City", "field": "City" },
+        { "label": "Sunrise", "field": "Sunrise" },
+        { "label": "Sunset", "field": "Sunset" }
+    ]
+}

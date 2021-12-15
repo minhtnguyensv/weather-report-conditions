@@ -1,0 +1,22 @@
+{
+    "au-cities": [{ "label": "South Melbourne", "value": "Melbourne" },
+        { "label": "Sydney", "value": "Sydney" },
+        { "label": "Brisbane", "value": "Brisbane" },
+        { "label": "Perth", "value": "Perth" },
+        { "label": "Adelaide Hills", "value": "Adelaide Hills" },
+        { "label": "newcastle", "value": "newcastle" },
+        { "label": "Canberra", "value": "Canberra" },
+        { "label": "Sunshine Coast", "value": "Sunshine Coast" },
+        { "label": "Central Goldfields", "value": "Central Goldfields" },
+        { "label": "Greater Geelong", "value": "Greater Geelong" },
+        { "label": "Hobart", "value": "Hobart" },
+        { "label": "Townsville", "value": "Townsville" },
+        { "label": "Darwin", "value": "Darwin" },
+        { "label": "Ballarat Central", "value": "Ballarat Central" },
+        { "label": "Bendigo", "value": "Bendigo" },
+        { "label": "Mackay", "value": "Mackay" },
+        { "label": "Melton", "value": "Melton" },
+        { "label": "Bunbury", "value": "Bunbury" },
+        { "label": "Wagga Wagga", "value": "Wagga Wagga" }
+    ]
+}
